@@ -1,4 +1,4 @@
-#Austin Bikeshare Analytics Grafana Dashboard
+# Austin Bikeshare Analytics Grafana Dashboard
 
 Bike sharing, also known as a bicycle-sharing system, is a service that provides bicycles for shared use by individuals at low costs. Users can rent bikes from designated docking stations or through dockless systems, where bikes can be picked up and dropped off at various locations within a city. 
 
@@ -7,9 +7,10 @@ Though Grafana is primarily a tool used for monitoring visualizations, I also wa
 
 
 Public Access link:
-[text](https://subhanu.grafana.net/public-dashboards/21aab16e30dd48e7abe9104f43a4dc26)
+[](https://subhanu.grafana.net/public-dashboards/21aab16e30dd48e7abe9104f43a4dc26)
 
-Tech Stack
+### Tech Stack
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
