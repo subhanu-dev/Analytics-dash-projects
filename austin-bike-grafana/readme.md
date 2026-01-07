@@ -19,9 +19,14 @@ Public Access link:
 
 ![](assets/Austin%20Cycle%20Data-1767779925781.png)
 
-
+![](assets/grafana-in-building.png)
 
 <b> BigQuery </b>
+
+Database
+![](assets/data.png)
+
+Querying for understanding the data structures connections and running them before committing inside of Grafana
 
 ![](assets/Screenshot%202026-01-07%20153625.png)
 
