@@ -15,13 +15,18 @@ https://subhanu.grafana.net/public-dashboards/21aab16e30dd48e7abe9104f43a4dc26
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 
-Dashboard Image
+<b> Dashboard Image </b>
+
 ![](assets/Austin%20Cycle%20Data-1767779925781.png)
 
 
-BigQuery
+<b> BigQuery </b>
+
 ![](assets/Screenshot%202026-01-07%20153625.png)
 
 
+
+---
+Made with ❤️ by [Subhanu](https://github.com/subhanu-dev)
 
 
