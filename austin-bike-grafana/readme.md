@@ -7,7 +7,7 @@ Though Grafana is primarily a tool used for monitoring visualizations, I also wa
 
 
 Public Access link:
-[](https://subhanu.grafana.net/public-dashboards/21aab16e30dd48e7abe9104f43a4dc26)
+[grafana link](https://subhanu.grafana.net/public-dashboards/21aab16e30dd48e7abe9104f43a4dc26)
 
 ### Tech Stack
 
@@ -34,6 +34,7 @@ Querying for understanding the data structures connections and running them befo
 
 ---
 Made with ❤️ by [Subhanu](https://github.com/subhanu-dev)
+
 
 
 
